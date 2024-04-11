@@ -71,4 +71,4 @@
 
 ### Third-party packages
 
-    NA
+    slider
