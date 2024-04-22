@@ -1,0 +1,72 @@
+.header-title {
+  font-family:"Roboto";
+  font-size:25px;
+  font-weight:700;
+}
+
+.subtitle {
+  position:relative;
+  bottom:10px;
+  text-align: center;
+}
+
+.wishlist-and-cart {
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.wishlist-title {
+  font-size:20px;
+}
+
+.slash {
+  font-size:30px;
+}
+
+.dollar {
+  font-size:20px;
+}
+
+.price {
+  font-size:20px;
+}
+
+.search-bar-sm {
+   width:23rem;
+}
+
+.search-bar-md {
+  width:40rem;
+  margin:auto;
+}
+
+.search-icon {
+  position:relative;
+  right:40px; 
+  top:10px; 
+}
+
+.search-input-box {
+  height:40px;
+  font-size:18px;
+}
+
+/* styles for large devices */
+
+.header-title-lg {
+  font-size:30px;
+  position:relative;
+  top:10px;
+}
+
+.subtitle-lg {
+  position:relative;
+  top:8px;
+  font-size:18px;
+}
+
+.wishlist-and-cart-lg {
+  position:relative;
+  top:30px;
+}

@@ -1,0 +1,33 @@
+.navbar-container {
+   background-color:green;     
+   width:100vw;
+}
+
+.navbar-items {
+  color:black;
+  font-weight:700;
+  font-size:20px;
+}
+
+.hamburger-icon {
+   position:relative;
+   bottom:10px;
+}
+
+/* styles for large devices */
+
+.navbar-container-lg {
+   background-color:green;    
+   background-size:cover;
+}
+
+.navbar-items-lg {
+   color:white;
+}
+
+.person-icon {
+   color:blue;
+   position:relative;
+   right:6px;
+}
+
