@@ -73,7 +73,7 @@ function Navbar() {
       </nav>
 
       {/** navbar large devices */}
-      <nav className="navbar navbar-expand-lg navbar-light navbar-container-lg">
+      <nav className="navbar navbar-expand-lg navbar-light navbar-container-lg d-none d-lg-block">
         <button
           className="navbar-toggler"
           type="button"
