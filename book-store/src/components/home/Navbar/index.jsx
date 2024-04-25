@@ -89,7 +89,7 @@ function Navbar() {
           className="collapse navbar-collapse navbar-items"
           id="navbarNavAltMarkup"
         >
-          <div className="navbar-nav gap-3 p-1">
+          <div className="navbar-nav gap-2 p-1">
             <a className="nav-item nav-link text-white" href="#">
               ALL CATEGORIES
             </a>
