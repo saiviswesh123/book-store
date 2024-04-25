@@ -25,7 +25,7 @@ function Header() {
               </svg>
 
               <div>
-                <h1 className="header-title">Book Warm Hub</h1>
+                <h1 className="header-title">BookWarmHub</h1>
                 <p className="subtitle">Best Books Seller</p>
               </div>
             </div>

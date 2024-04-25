@@ -1,0 +1,37 @@
+.footer-container {
+  background-color:#e9e9e9;
+  padding:20px;
+}
+
+.office-location {
+  font-size:16px;
+}
+
+.title {
+  font-size:18px;
+}
+
+.newsletter-title {
+  color:#77b748;
+  font-size:20px;
+}
+
+.mail-icon {
+  position:relative;
+  left:280px;
+  bottom:33px;
+}
+
+.fast-delivery-title {
+  font-size:20px;
+  margin-top:10px;
+}
+
+.fast-delivery-subtitle {
+  font-size:13px;
+}
+
+
+.newsletter-title-lg {
+  font-size:16px;
+}
